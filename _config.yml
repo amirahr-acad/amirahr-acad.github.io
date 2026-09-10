@@ -14,3 +14,8 @@ header:
 collections:
   training:
     output: true
+
+sass:
+  sass_dir: assets/css
+  style: compressed
+
