@@ -1,13 +1,23 @@
 ---
 layout: single
-title: "eLearn@USM"
+title: eLearn@USM
 permalink: /training/elearn/
 ---
 
-Resources for eLearn@USM, including quizzes, question banks, attendance, and other teaching-related features.
+Training resources for eLearn@USM.
 
-## Quiz
+<div class="training-grid">
 
-Resources for creating and managing quizzes.
+<a class="training-card" href="/training/elearn/quiz/">
+  <h2>Quiz</h2>
+  <p>Creating and managing quizzes in eLearn@USM.</p>
+  <span>Explore →</span>
+</a>
 
-[View Quiz →](/training/elearn/quiz/)
+<a class="training-card" href="/training/elearn/attendance/">
+  <h2>Attendance</h2>
+  <p>Managing attendance in eLearn@USM.</p>
+  <span>Explore →</span>
+</a>
+
+</div>
