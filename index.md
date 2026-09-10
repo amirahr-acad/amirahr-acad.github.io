@@ -1,4 +1,9 @@
-# TESTING Training Resources
+---
+layout: default
+title: Home
+---
+
+# Training Resources
 
 Welcome to the training resources website.
 
