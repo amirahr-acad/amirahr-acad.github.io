@@ -7,3 +7,6 @@ minimal_mistakes_skin: "default"
 
 plugins:
   - jekyll-include-cache
+
+header:
+  nav: main
