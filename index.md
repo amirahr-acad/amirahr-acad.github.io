@@ -1,9 +1,7 @@
 ---
-layout: default
-title: Home
+layout: single
+title: Training Resources
 ---
-
-# Training Resources
 
 Welcome to the training resources website.
 
