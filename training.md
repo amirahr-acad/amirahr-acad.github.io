@@ -8,20 +8,8 @@ permalink: /training/
 
 Explore resources from training sessions and workshops.
 
-## GenAI in Mathematics Teaching
-
-Training materials on the use of generative AI in mathematics teaching.
-
-[View training →](/training/genai/)
-
 ## eLearn@USM
 
-Training materials on using eLearn@USM for teaching and learning.
+Training resources for eLearn@USM, including quizzes, question banks, attendance, and other teaching-related features.
 
-[View training →](/training/elearn/)
-
-## GeoGebra
-
-Training materials on using GeoGebra in mathematics teaching.
-
-[View training →](/training/geogebra/)
+[View eLearn@USM →](/training/elearn/)
