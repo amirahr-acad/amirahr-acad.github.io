@@ -1,2 +1,9 @@
 title: Training Resources
 description: Training materials and resources
+
+remote_theme: mmistakes/minimal-mistakes
+
+minimal_mistakes_skin: "default"
+
+plugins:
+  - jekyll-include-cache
