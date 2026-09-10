@@ -10,3 +10,7 @@ plugins:
 
 header:
   nav: main
+
+collections:
+  training:
+    output: true
