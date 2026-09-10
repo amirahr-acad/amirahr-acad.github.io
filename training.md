@@ -4,12 +4,14 @@ title: Training
 permalink: /training/
 ---
 
-# Training
+Explore training resources by topic.
 
-Explore resources from training sessions and workshops.
+<div class="training-grid">
 
-## eLearn@USM
+<a class="training-card" href="/training/elearn/">
+  <h2>eLearn@USM</h2>
+  <p>Training resources for eLearn@USM, including quizzes, question banks and attendance.</p>
+  <span>Explore →</span>
+</a>
 
-Training resources for eLearn@USM, including quizzes, question banks, attendance, and other teaching-related features.
-
-[View eLearn@USM →](/training/elearn/)
+</div>
